@@ -39,12 +39,6 @@ on the concepts outlined here since her days as an instructor at
 Humber College (where she taught liberal arts
 students how to use CVS).
 
-Emma first made the switch to teaching version control with
-adult education best practices in mind at DrupalCamp Toronto in
-2012. Variations of this presentation have been delivered at 
-php[tek] (2013), DrupalCamp TwinCities (2013), DrupalCon Prague 
-(2013), LoneStar PHP (2014), among other places.
-
 ## Acknowledgements
 
 Emma is grateful for the support she received while employed at
